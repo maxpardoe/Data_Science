@@ -1,5 +1,5 @@
-# Data_Science
-Capstone
+# Capstone Project
+
 Predicting Clean Sheets in Europe’s top 5 leagues and MLS
 
 Goals of the Project
